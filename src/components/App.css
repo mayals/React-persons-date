@@ -1,3 +1,46 @@
+.App_font{
+  font-family: 'DynaPuff', cursive;
+  font-family: 'Roboto', sans-serif;
+ 
+  font-size:20px;
+  font-weight: 400; 
+}
+
+
+.App-backend-color{
+  background-color: rgb(236, 255, 27);
+}
+
+
+
+.App-rectangle{
+  height:600px;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 254);
+  box-shadow: 5px 5px #c3c3c3;
+}
+
+
+
+.App-button{
+  width:200px!important;
+  border-radius:8px!important;
+  background-color: rgb(78, 45, 239)!important;
+  color:rgb(244, 245, 236)!important;
+}
+
+
+.img-avatar{
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+
+
+
+
+
 .App {
   text-align: center;
 }
